@@ -26,4 +26,4 @@ npm run build
 - All the notes are sorted acording to the completed todos i.e ( *All the completed todos will be move down* )
 
 ## Delete a note
-- Click on the *remove* button of the particular todo you ant to delete
+- Click on the *remove* button of the particular todo you want to delete
